@@ -1,4 +1,4 @@
-# oxyrex-client
+# oxyrex.xyz-client
 It's the full suite. | Oxyrex.xyz client.
 
 https://github.com/JH-Jack/oxyrex-server - server
